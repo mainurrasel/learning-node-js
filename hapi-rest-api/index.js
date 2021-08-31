@@ -12,7 +12,7 @@ const init = async () => {
     method: "GET",
     path: "/",
     handler: (request, response) => {
-      return "Welcome to the rest API";
+      return "Hello rest API";
     },
   });
 
