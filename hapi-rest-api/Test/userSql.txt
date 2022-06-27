@@ -1,0 +1,65 @@
+DROP TABLE IF EXISTS users;
+DROP TABLE IF EXISTS districts;
+
+
+CREATE TABLE DISTRICTS (
+           OID UUID ,
+           DISTRICTID VARCHAR(64) NOT NULL,
+           DISTRICTNAME VARCHAR(64) NOT NULL,
+           PRIMARY KEY(DISTRICTID)
+);
+CREATE TABLE USERS (
+	OID UUID NOT NULL,
+	UID VARCHAR(11) NOT NULL,
+	UNAME VARCHAR(64) NOT NULL,
+	ADDRESS TEXT NOT NULL,
+	GENDER VARCHAR(10) NOT NULL,
+	MOBILENO VARCHAR(11) NOT NULL,
+	EMAIL VARCHAR(128) NOT NULL,
+	DOB DATE NOT NULL,
+	PASS VARCHAR(64) NOT NULL,
+	LANGUAGE JSON NOT NULL,
+	DISTRICTID VARCHAR(64) NOT NULL,
+	CREATEDAT TIMESTAMP NOT NULL,
+	UPDATEDAT TIMESTAMP NOT NULL,
+	UPDATEDBY VARCHAR NOT NULL,
+  	PRIMARY KEY(OID),
+  	CONSTRAINT checkGender
+    	CHECK ( gender in ( 'Male' , 'Female' , 'Others' ) ),
+  	CONSTRAINT fkDistrict
+    		FOREIGN KEY(DISTRICTID)
+    			REFERENCES DISTRICTS(DISTRICTID)
+);
+Insert into DISTRICTS(DISTRICTID, DISTRICTNAME)
+VALUES('0','DHAKA'),
+      ('1','TANGAIL'),
+      ('2','NATOR');
+
+Insert into USERS(OID,UID,UNAME,ADDRESS,GENDER,MOBILENO,EMAIL,DOB,PASS,LANGUAGE,DISTRICTID,CREATEDAT,UPDATEDAT,UPDATEDBY)
+VALUES (uuid_generate_v4(), 1, 'Mainur', 'khilkhet, DHAKA', 'Male', '01621460693', 'mainur@gmail.com', '31-12-1996', '123', '{"LANGUAGE":"BANGLA", "LANGUAGE":"ENGLISH"}', 0, '2021-06-09', '2021-06-09', 'Mainur');
+
+CREATE TABLE BOOK (
+           ID VARCHAR(64) NOT NULL,
+           BOOKNAME VARCHAR(64) NOT NULL,
+           PRIMARY KEY(ID)
+);
+Insert into BOOK(ID,BOOKNAME)
+VALUES (1,'Mainur Book');
+
+
+CREATE TABLE item (
+           ID VARCHAR(64) NOT NULL,
+           NAME VARCHAR(64) NOT NULL,
+           PRICE INT NOT NULL,
+           PRIMARY KEY(ID)
+);
+
+select lal.agentcode,c.namebn,c.addressbn , lal.salutation ,lal.namebn,lal.fathername, lal.wifename ,lal.mothername ,
+lal.nidnumber ,lal.birthcertorpassno ,lal.resaddressline1 ,lal.respostoffice ,lal.resupazila ,lal.resdistrict, lal.fromdate ,
+lal.expirationdate , lal.issuedon ,lal.licencenumber ,lal.refsignature 
+from public.lifeagentlicence lal, public.company c
+where 1 =1 and lal.companyoid = c.oid and c.oid='pragatilife';
+
+
+
+
