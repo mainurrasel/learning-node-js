@@ -1,0 +1,11 @@
+###
+GET http://0.0.0.0:3001/report/sample-report
+Accept: application/json
+
+###
+GET http://0.0.0.0:3001/report/sample-report-with-param-data-binding/65cd420e-d785-46df-bbc5-d560b3e9a9f2
+Accept: application/json
+
+###
+GET http://0.0.0.0:3001/report/sample-report-with-list-data-binding
+Accept: application/json

@@ -1,0 +1,201 @@
+2022-10-25 11:37:03.310 ERROR - server.js:147 Cannot find module '../../../util/dao'
+Require stack:
+- /home/mainur/Downloads/jasper-report-sample-project/src/routes/sample-report/sample-report-with-param-data-binding.js
+- /home/mainur/Downloads/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Downloads/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Downloads/jasper-report-sample-project/src/server.js 
+2022-10-25 11:37:20.492 ERROR - server.js:147 Cannot find module '../../../util/dao'
+Require stack:
+- /home/mainur/Downloads/jasper-report-sample-project/src/routes/sample-report/sample-report-with-param-data-binding.js
+- /home/mainur/Downloads/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Downloads/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Downloads/jasper-report-sample-project/src/server.js 
+2022-10-25 11:37:39.971 INFO - server.js:139 - Hapi js(20.2.1) running on http://0.0.0.0:3001 
+2022-10-25 11:37:39.974 INFO - server.js:143 - Server running on http://0.0.0.0:3001 
+2022-10-25 11:37:39.989 INFO - server.js:135 - Postgres connected 
+2022-10-25 11:42:49.198 ERROR - server.js:147 sample_report_data_binding is not defined 
+2022-10-25 11:43:26.215 ERROR - server.js:147 sample_report_data_binding is not defined 
+2022-10-25 11:43:29.407 ERROR - server.js:147 sample_report_data_binding is not defined 
+2022-10-25 11:43:32.574 ERROR - server.js:147 sample_report_data_binding is not defined 
+2022-10-25 11:43:36.060 ERROR - server.js:147 sample_report_data_binding is not defined 
+2022-10-25 11:43:42.383 ERROR - server.js:147 sample_report_data_binding is not defined 
+2022-10-25 11:44:17.069 INFO - server.js:139 - Hapi js(20.2.1) running on http://0.0.0.0:3001 
+2022-10-25 11:44:19.092 ERROR - server.js:147 sample_report_data_binding is not defined 
+2022-10-25 11:44:54.585 INFO - server.js:139 - Hapi js(20.2.1) running on http://0.0.0.0:3001 
+2022-10-25 11:45:07.401 INFO - server.js:139 - Hapi js(20.2.1) running on http://0.0.0.0:3001 
+2022-10-25 11:45:40.222 INFO - server.js:139 - Hapi js(20.2.1) running on http://0.0.0.0:3001 
+2022-10-25 11:45:40.224 INFO - server.js:143 - Server running on http://0.0.0.0:3001 
+2022-10-25 11:45:40.275 INFO - server.js:135 - Postgres connected 
+2022-10-25 11:48:10.482 INFO - server.js:139 - Hapi js(20.2.1) running on http://0.0.0.0:3001 
+2022-10-25 11:48:10.485 INFO - server.js:143 - Server running on http://0.0.0.0:3001 
+2022-10-25 11:48:10.525 INFO - server.js:135 - Postgres connected 
+2022-10-25 11:49:17.405 INFO - server.js:139 - Hapi js(20.2.1) running on http://0.0.0.0:3001 
+2022-10-25 11:49:17.409 INFO - server.js:143 - Server running on http://0.0.0.0:3001 
+2022-10-25 11:49:17.556 INFO - server.js:135 - Postgres connected 
+2022-10-25 12:07:50.896 INFO - server.js:139 - Hapi js(20.2.1) running on http://0.0.0.0:3001 
+2022-10-25 12:07:50.899 INFO - server.js:143 - Server running on http://0.0.0.0:3001 
+2022-10-25 12:07:50.939 INFO - server.js:135 - Postgres connected 
+2022-10-25 12:08:19.730 INFO - server.js:139 - Hapi js(20.2.1) running on http://0.0.0.0:3001 
+2022-10-25 12:08:19.732 INFO - server.js:143 - Server running on http://0.0.0.0:3001 
+2022-10-25 12:08:19.767 INFO - server.js:135 - Postgres connected 
+2022-10-25 13:21:58.627 ERROR - server.js:152 Cannot find module '../util/log'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:22:16.362 ERROR - server.js:152 Cannot find module '../util/log'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:22:25.728 ERROR - server.js:152 Cannot find module '../util/log'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:23:02.381 ERROR - server.js:152 Cannot find module '../util/log'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:23:19.926 ERROR - server.js:152 Cannot find module '../util/log'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:24:12.776 ERROR - server.js:152 Cannot find module '../util/log'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample_list_binding.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:25:38.894 ERROR - server.js:152 Cannot find module '../util/log'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample_list_binding.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:25:40.053 ERROR - server.js:152 Cannot find module '../util/log'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample_list_binding.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:25:42.642 ERROR - server.js:152 Cannot find module '../util/log'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample_list_binding.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:25:46.227 ERROR - server.js:152 Cannot find module '../util/log'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample_list_binding.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:25:47.480 ERROR - server.js:152 Cannot find module '../util/log'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample_list_binding.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:25:49.812 ERROR - server.js:152 Cannot find module '../util/log'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample_list_binding.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:25:54.923 ERROR - server.js:152 Cannot find module '../util/log'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample_list_binding.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:25:56.092 ERROR - server.js:152 Cannot find module '../util/log'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample_list_binding.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:25:58.125 ERROR - server.js:152 Cannot find module '../util/log'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample_list_binding.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:26:09.533 ERROR - server.js:152 Cannot find module '../server'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample_list_binding.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:26:14.145 ERROR - server.js:152 Cannot find module '../server'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample_list_binding.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:26:35.132 ERROR - server.js:152 Cannot find module '../server'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample_list_binding.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:26:36.695 ERROR - server.js:152 Cannot find module '../server'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample_list_binding.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:26:49.529 ERROR - server.js:152 Cannot find module '../server'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample_list_binding.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:26:51.465 ERROR - server.js:152 Cannot find module '../server'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample_list_binding.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:26:54.740 ERROR - server.js:152 Cannot find module '../server'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample_list_binding.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:27:06.421 ERROR - server.js:152 Cannot find module '../util/constant'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample_list_binding.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:27:10.001 ERROR - server.js:152 Cannot find module '../util/constant'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample_list_binding.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:27:19.894 ERROR - server.js:152 Cannot find module '../util/constant'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample_list_binding.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:27:25.478 ERROR - server.js:152 Cannot find module '../util/constant'
+Require stack:
+- /home/mainur/Desktop/jasper-report-sample-project/src/routes/sample-report/sample_list_binding.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/lib/auto-route.js
+- /home/mainur/Desktop/jasper-report-sample-project/node_modules/hapi-auto-route/index.js
+- /home/mainur/Desktop/jasper-report-sample-project/src/server.js 
+2022-10-25 13:27:29.941 ERROR - server.js:152 listen EADDRINUSE: address already in use 0.0.0.0:3001 
+2022-10-25 13:27:47.516 ERROR - server.js:152 listen EADDRINUSE: address already in use 0.0.0.0:3001 
+2022-10-25 13:28:04.684 INFO - server.js:144 - Hapi js(20.2.1) running on http://0.0.0.0:3001 
+2022-10-25 13:28:04.688 INFO - server.js:148 - Server running on http://0.0.0.0:3001 
+2022-10-25 13:28:04.715 INFO - server.js:140 - Postgres connected 

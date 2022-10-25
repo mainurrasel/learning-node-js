@@ -1,0 +1,32 @@
+[31m2022-10-19 11:42:04.814 ERROR - server.js:142 listen EADDRINUSE: address already in use 0.0.0.0:3001 [39m
+[32m2022-10-19 11:42:19.552 INFO - server.js:134 - Hapi js(20.2.1) running on http://0.0.0.0:3001 [39m
+[32m2022-10-19 11:42:19.554 INFO - server.js:138 - Server running on http://0.0.0.0:3001 [39m
+[32m2022-10-19 11:42:19.588 INFO - server.js:130 - Postgres connected [39m
+[32m2022-10-19 11:47:34.616 INFO - server.js:134 - Hapi js(20.2.1) running on http://0.0.0.0:3001 [39m
+[32m2022-10-19 11:47:34.619 INFO - server.js:138 - Server running on http://0.0.0.0:3001 [39m
+[32m2022-10-19 11:47:34.658 INFO - server.js:130 - Postgres connected [39m
+[32m2022-10-19 11:48:40.339 INFO - server.js:134 - Hapi js(20.2.1) running on http://0.0.0.0:3001 [39m
+[32m2022-10-19 11:48:40.341 INFO - server.js:138 - Server running on http://0.0.0.0:3001 [39m
+[32m2022-10-19 11:48:40.572 INFO - server.js:130 - Postgres connected [39m
+[32m2022-10-19 11:49:04.475 INFO - routes/sample-report/sample-report.js:34 - Download report - [sample_2022-10-19__114841.pdf] [39m
+[32m2022-10-19 11:49:04.580 INFO - routes/sample-report/sample-report.js:34 - Download report - [sample_2022-10-19__114904.pdf] [39m
+[32m2022-10-19 11:49:04.706 INFO - routes/sample-report/sample-report.js:34 - Download report - [sample_2022-10-19__114904.pdf] [39m
+[32m2022-10-19 11:49:45.844 INFO - routes/sample-report/sample-report.js:34 - Download report - [sample_2022-10-19__114945.pdf] [39m
+[32m2022-10-19 11:53:17.977 INFO - server.js:134 - Hapi js(20.2.1) running on http://0.0.0.0:3001 [39m
+[32m2022-10-19 11:53:17.979 INFO - server.js:138 - Server running on http://0.0.0.0:3001 [39m
+[31m2022-10-19 11:53:18.028 ERROR - server.js:142 database "alodev" does not exist [39m
+[32m2022-10-19 11:53:31.714 INFO - server.js:134 - Hapi js(20.2.1) running on http://0.0.0.0:3001 [39m
+[32m2022-10-19 11:53:31.717 INFO - server.js:138 - Server running on http://0.0.0.0:3001 [39m
+[32m2022-10-19 11:53:31.797 INFO - server.js:130 - Postgres connected [39m
+[32m2022-10-19 12:00:37.353 INFO - routes/sample-report/sample-report.js:34 - Download report - [sample_2022-10-19__120033.pdf] [39m
+[32m2022-10-19 12:10:12.071 INFO - server.js:134 - Hapi js(20.2.1) running on http://0.0.0.0:3001 [39m
+[32m2022-10-19 12:10:12.073 INFO - server.js:138 - Server running on http://0.0.0.0:3001 [39m
+[32m2022-10-19 12:10:12.480 INFO - server.js:130 - Postgres connected [39m
+[31m2022-10-19 12:10:16.842 ERROR - server.js:142 listen EADDRINUSE: address already in use 0.0.0.0:3001 [39m
+[31m2022-10-19 12:10:34.795 ERROR - server.js:142 listen EADDRINUSE: address already in use 0.0.0.0:3001 [39m
+[32m2022-10-19 12:10:50.342 INFO - server.js:134 - Hapi js(20.2.1) running on http://0.0.0.0:3001 [39m
+[32m2022-10-19 12:10:50.344 INFO - server.js:138 - Server running on http://0.0.0.0:3001 [39m
+[32m2022-10-19 12:10:50.363 INFO - server.js:130 - Postgres connected [39m
+[32m2022-10-19 12:10:57.607 INFO - routes/sample-report/sample-report.js:34 - Download report - [sample_2022-10-19__121056.pdf] [39m
+[31m2022-10-19 12:11:23.967 ERROR - server.js:142 listen EADDRINUSE: address already in use 0.0.0.0:3001 [39m
+[31m2022-10-19 12:11:29.791 ERROR - server.js:142 listen EADDRINUSE: address already in use 0.0.0.0:3001 [39m

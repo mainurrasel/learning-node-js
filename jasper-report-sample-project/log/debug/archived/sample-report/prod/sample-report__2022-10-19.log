@@ -1,0 +1,4 @@
+[31m2022-10-19 12:12:16.402 ERROR - server.js:142 listen EADDRINUSE: address already in use 0.0.0.0:3001 [39m
+[31m2022-10-19 12:12:40.474 ERROR - server.js:142 listen EADDRINUSE: address already in use 0.0.0.0:3001 [39m
+[31m2022-10-19 12:13:02.987 ERROR - server.js:142 listen EADDRINUSE: address already in use 0.0.0.0:3001 [39m
+[31m2022-10-19 12:23:23.855 ERROR - server.js:142 listen EADDRINUSE: address already in use 0.0.0.0:3001 [39m
